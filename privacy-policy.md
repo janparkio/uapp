@@ -2,7 +2,7 @@ POLÍTICA DE PRIVACIDAD – PROTECCIÓN DE DATOS
 
 1\. ALCANCE
 
-1.1. Esta Política de Privacidad establece las normas y prácticas de protección de datos de la plataforma _______UAPP____________ de UNIVERSIDAD AMERICANA (en adelante, la plataforma). Tal como se desarrolla en los Términos y Condiciones de Acceso y Uso, a los que se incorpora esta Política de Privacidad.
+1.1. Esta Política de Privacidad establece las normas y prácticas de protección de datos de la plataforma UAPP de UNIVERSIDAD AMERICANA (en adelante, la plataforma). Tal como se desarrolla en los Términos y Condiciones de Acceso y Uso, a los que se incorpora esta Política de Privacidad.
 
 1.2. Al utilizar la plataforma vos (el “Usuario”) aceptas los términos de esta Política de Privacidad, incluyendo lasmodificaciones que puedan sufrir en el futuro, por tanto, representa tu consentimiento a la recopilación, almacenamiento, uso y divulgación de la información personal que recaudamos sobre vos mediante la plataforma, tal como se describe a continuación. Por favor, asegúrate de leer esta Política de Privacidad en su totalidad antes de utilizar la plataforma.
 
@@ -52,4 +52,4 @@ No estás obligado a aceptar la presente política de privacidad, pero al compl
 
 6\. DERECHO A CANCELAR LA AUTORIZACIÓNY SUSCRIPCIÓN A LA PLATAFORMA
 
-Es importante que sepas que la presente autorización para el tratamiento y uso de tus datos es esencialmenterevocable. En caso que desees revocar la autorización, lo puedes hacer de forma gratuita, pero debes saber que la misma no tiene efecto retroactivo, por lo tanto, hasta tanto la solicites, tus datos serán tratados y utilizados conforme a esta política de privacidad. Para la revocación o cancelación de la autorización deberás enviar un correo electrónico a la siguiente dirección [_soporte_app_ua@americana.edu.py](mailto:_soporte_app_ua@americana.edu.py) o hacer click en el enlace de la plataforma denominado “Cancelar suscripción”. La no aceptación, cancelación o revocación de la política de privacidad implica necesariamente la imposibilidad de acceso y uso de la plataforma.
+Es importante que sepas que la presente autorización para el tratamiento y uso de tus datos es esencialmenterevocable. En caso que desees revocar la autorización, lo puedes hacer de forma gratuita, pero debes saber que la misma no tiene efecto retroactivo, por lo tanto, hasta tanto la solicites, tus datos serán tratados y utilizados conforme a esta política de privacidad. Para la revocación o cancelación de la autorización deberás enviar un correo electrónico a la siguiente dirección [soporte_app_ua@americana.edu.py](mailto:_soporte_app_ua@americana.edu.py) o hacer click en el enlace de la plataforma denominado “Cancelar suscripción”. La no aceptación, cancelación o revocación de la política de privacidad implica necesariamente la imposibilidad de acceso y uso de la plataforma.
